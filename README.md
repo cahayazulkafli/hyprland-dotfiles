@@ -5,19 +5,18 @@ Hyprland dotfiles for Arch Linux. Experimenting with Wayland to see if it is bet
 
 ## Prerequisites
 
-- hyprland
-- hyprpaper
-- wofi
-- waybar
-- alacritty
-- picom
+- hyprland (the compositor)
+- hyprpaper (setting up wallpaper, made by the hyprland team)
+- wofi (run menu)
+- waybar (a bar... like polybar)
+- alacritty (terminal)
 
 ## Installation
 
 **1. Install the prerequisites:**
 
 ```
-sudo pacman -Syu hyprland wofi waybar alacritty hyprpaper picom
+sudo pacman -Syu hyprland wofi waybar alacritty hyprpaper
 ```
 
 **2. Git clone this repository:**

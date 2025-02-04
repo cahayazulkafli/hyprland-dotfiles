@@ -28,7 +28,7 @@ git clone https://www.github.com/cahayazulkafli/hyprland-dotfiles.git
 **3. And then move the files into the `.config` folder:**
 
 ```
-cd hyprland-dotfiles && mv -r * ~/.config
+cd hyprland-dotfiles && mv * ~/.config
 ```
 
 **Done! Adjust to your needs.**

@@ -1,5 +1,5 @@
 
-# Hyprland Dotfiles
+# Dotfiles for Hyprland, a dynamic Wayland compositor.
 
 Hyprland dotfiles for Arch Linux. Experimenting with Wayland to see if it is better for gaming or not.
 

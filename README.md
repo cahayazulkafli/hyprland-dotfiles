@@ -1,7 +1,7 @@
 
 # Hyprland Dotfiles
 
-Hyprland dotfiles for Arch Linux. 
+Hyprland dotfiles for Arch Linux. Experimenting with Wayland to see if it is better for gaming or not.
 
 ## Prerequisites
 

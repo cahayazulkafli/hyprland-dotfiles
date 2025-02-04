@@ -1,5 +1,7 @@
 
-# Hyprland Dotfiles (Arch Linux)
+# Hyprland Dotfiles
+
+Hyprland dotfiles for Arch Linux. 
 
 ## Prerequisites
 
@@ -12,15 +14,15 @@
 
 ## Installation
 
-Install the prerequisites:
+1. Install the prerequisites:
 
 `sudo pacman -Syu hyprland wofi waybar alacritty hyprpaper picom`
 
-Git clone the repository:
+2. Git clone this repository:
 
 `git clone https://www.github.com/cahayazulkafli/hyprland-dotfiles.git`
 
-And then move the files into the `.config` folder:
+3. And then move the files into the `.config` folder:
 
 `cd hyprland-dotfiles`
 `mv -r * ~/.config`
